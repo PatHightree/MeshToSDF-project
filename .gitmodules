@@ -1,0 +1,3 @@
+[submodule "Assets/MeshToSDF"]
+	path = Assets/MeshToSDF
+	url = https://github.com/PatHightree/MeshToSDF.git
